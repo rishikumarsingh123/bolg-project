@@ -72,5 +72,3 @@ The project is deployed on Vercel and can be accessed here:
 - GitHub: [@rishikumarsingh123](https://github.com/rishikumarsingh123)
 
 ---
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
